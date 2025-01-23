@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning my own software development.
 - 📫 You can reach me on Reddit at u/Solt11.
 - 😄 Pronouns: any
-- ⚡ Fun fact: squishmallows are the best
+- ⚡ Fun fact: SSBU brought me into modding games through an oddly specific string of events.
 
 <!---
 solt-frfr/solt-frfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
