@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @solt-frfr, or Solt11.
-- 👀 I’m interested in modding games I'm interested in.
-- 🌱 I’m currently learning my own software development.
-- 📫 You can reach me on Reddit at u/Solt11.
-- 😄 Pronouns: any
-- ⚡ Fun fact: SSBU brought me into modding games through an oddly specific string of events.
+- Fun fact: SSBU brought me into modding games through an oddly specific string of events.
+
+<h1 align="center">Solt11</h1>
+
+- Making a game in Godot
+- Any Pronouns
+- Windows, Android
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solt-frfr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solt-ftft&layout=compact&theme=radical)
 
 <!---
 solt-frfr/solt-frfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
