@@ -9,7 +9,7 @@
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solt-frfr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solt-ftft&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solt-frfr&layout=compact&theme=radical)
 
 <!---
 solt-frfr/solt-frfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
